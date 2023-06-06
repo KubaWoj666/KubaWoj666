@@ -23,7 +23,7 @@ Reach me out on my [LinkedIn Profile](https://www.linkedin.com/in/jakub-w%C3%B3
 Currently learning:
 
 - Django
-- machine learning
+- Java
 
 Planning to learn:
 
@@ -32,7 +32,7 @@ Planning to learn:
 
 Current working on
 
-- my firs app in Django
+- Firs greate project in django
 
 Courses I finished
 
@@ -46,7 +46,9 @@ Projects:
     - B**ook library app** - REST API for online library. It supports authors of books and books resources including Oauth2 authentication (JWT Token).
     - S**ocial media app** - REST API for simple social media app it supports users, post, likes and comments, including Oauth2 authentication (JWT Token).
 - Django:
-    - **News App** - Simple news application where user can upload his news
+    - **Meetup App** - This is my favorite. It has some cool features, and I had a lot of fun creating this app
+    - **To Do App** - Very nice app where you can create, uptade and deletr your tasks
+    - **News App** - Simple news application where user can upload your news
 
 Python Practice
 
