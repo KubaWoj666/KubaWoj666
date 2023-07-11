@@ -32,19 +32,19 @@ Planning to learn:
 
 Current working on
 
-- Firs greate project in django
+- Social app in Django 
 
 Courses I finished
 
-- Udemy Flask
+- Udemy Tworzenie REST API - Python | Flask | MySQL
+- Udemy Python Django - The Practical Guide
 - Harvard cs50 intro to computer science
-- freeCodecamp
 
 Projects:
 
 - FastApi:
-    - B**ook library app** - REST API for online library. It supports authors of books and books resources including Oauth2 authentication (JWT Token).
-    - S**ocial media app** - REST API for simple social media app it supports users, post, likes and comments, including Oauth2 authentication (JWT Token).
+    - **Book library app** - REST API for online library. It supports authors of books and books resources including Oauth2 authentication (JWT Token).
+    - **Social media app** - REST API for simple social media app it supports users, post, likes and comments, including Oauth2 authentication (JWT Token).
 - Django:
     - **Meetup App** - This is my favorite. It has some cool features, and I had a lot of fun creating this app
     - **To Do App** - Very nice app where you can create, uptade and deletr your tasks
