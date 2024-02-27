@@ -46,9 +46,12 @@ Projects:
     - **Book library app** - REST API for online library. It supports authors of books and books resources including Oauth2 authentication (JWT Token).
     - **Social media app** - REST API for simple social media app it supports users, post, likes and comments, including Oauth2 authentication (JWT Token).
 - Django:
+    - **Social Book** - This is something like Instagram. I learned a lot of JS and discovered Django Channels.
     - **Meetup App** - This is my favorite. It has some cool features, and I had a lot of fun creating this app
     - **To Do App** - Very nice app where you can create, uptade and deletr your tasks
     - **News App** - Simple news application where user can upload your news
+- Django Rest Framework:
+    - **Library API** - This is my first project in DRF. It was fun to learn a new framework.
 
 Python Practice
 
